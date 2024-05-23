@@ -23,7 +23,6 @@ I am a passionate and dedicated Data Science enthusiast currently pursuing a Mas
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/r.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Caesarcph&count_private=true&show_icons=true" alt="Peihao Chen" />
 
 **Data Bases**
 
