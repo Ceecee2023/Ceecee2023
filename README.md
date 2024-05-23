@@ -8,54 +8,42 @@ I am a passionate and dedicated Data Science enthusiast currently pursuing a Mas
 ## 🌟 About Me
 
 - 🔭 I’m currently working on various data science projects, focusing on machine learning, data visualization, and predictive modeling.
-- 🌱 I’m always eager to learn new technologies and improve my skills, currently diving deeper into deep learning and AI.
+- 🌱 I’m always eager to learn new technologies and improve my skills, currently diving deeper into data analysis.
 - 👯 I’m looking to collaborate on projects related to data science, machine learning, and AI.
+- 💬 Ask me about Python, ML, DL, CV, NLP
 - 📫 How to reach me: sq214680@dal.ca
 
-## 💼 Professional Experience
+**Languages and Tools:**  
 
-### Yuxiang Primary School, Beijing, China
-**Mathematics Teacher (2021 - 2023)**
-- Established and managed a comprehensive database to track and analyze students' academic progress.
-- Utilized MySQL and PowerBI to visualize data, leading to a 5% improvement in average test scores within one academic year.
-- Designed innovative course plans and was recommended for city-wide course presentations.
-- **Skills:** MySQL, PowerBI, Microsoft Office, SharePoint, Communication, Leadership
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/powerbi.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tableau.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/r.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Caesarcph&count_private=true&show_icons=true" alt="Peihao Chen" />
 
-## 🎓 Education
+**Data Bases**
 
-### Dalhousie University, Halifax, NS, Canada
-**Master of Digital Innovation (Data Science) | GPA: 4.2/4.3 | Candidate 2025**
-- Relevant Courses: Foundations in Web Technology, Machine Learning, Machine Learning for Big Data, Data Mining, Data Warehousing, Process of Data Science, Data Analysis, Recommender Systems
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sqlite.svg"></code>
 
-### Beijing Union University, Beijing, China
-**Bachelor's Degree in Engineering (Computer Science and Technology) | GPA: 3.5/4 | 2016-2020**
-- Relevant Courses: Software Engineering, Data Structure, Practice of Application Development in Java, Data Visualization, Advanced Mathematics, Linear Algebra, Discrete Mathematics
+**Technical Skills**
 
-## 🛠️ Projects
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
 
-### Autoregressive Forex Price Prediction with LSTM
-- Developed a model using LSTM and autoregressive techniques with PyTorch.
-- Implemented Greedy Search and Beam Search to optimize results.
-- Achieved a 20.8% improvement in prediction accuracy and a 21.3% annual profit in back-testing with 20 years of historical data.
-- **Skills:** Deep Learning, PyTorch, Pandas, Numpy, MongoDB, Git
+**Frameworks and Libraries**
 
-### Customer Churn Analysis with PowerBI
-- Built data models and created interactive visualizations and reports using PowerBI.
-- Provided insights into customer behavior and churn patterns, improving customer retention strategies by 28.7%.
-- **Skills:** PowerBI, Data Visualization, Analytical Skills
-
-### Research: A Comparative Analysis of Machine Learning Algorithms Across Diverse Datasets
-- Applied algorithms such as Logistic Regression, Random Forest, KNN, and Naive Bayes to various datasets.
-- Designed experiments to compare and optimize model performance on different data types.
-- Accepted for presentation at the Future Technologies Conference 2024, to be published in Lecture Notes in Networks and Systems.
-- **Skills:** Machine Learning, scikit-learn, TensorFlow, SQL Server
-
-## 🏆 Achievements
-
-### MtA Hackathon, Mount Allison University
-- Designed a Language Model and built the web front-end and back-end for the model.
-- Won the Best Prototype Prize.
-- **Skills:** LLM, React.js, Flask, MySQL, Git
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/scikitlearn.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pandas.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/numpy.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pytorch.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg"></code>
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ceecee2023&show_icons=true&theme=radical)
