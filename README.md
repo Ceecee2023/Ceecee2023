@@ -10,7 +10,7 @@ I am a passionate and dedicated Data Science enthusiast currently pursuing a Mas
 - 🔭 I’m currently working on various data science projects, focusing on machine learning, data visualization, and predictive modeling.
 - 🌱 I’m always eager to learn new technologies and improve my skills, currently diving deeper into data analysis.
 - 👯 I’m looking to collaborate on projects related to data science, machine learning, and AI.
-- 💬 Ask me about Python, ML, DL, CV, NLP
+- 💬 Ask me about Python, ML, DL, DA
 - 📫 How to reach me: sq214680@dal.ca
 
 **Languages and Tools:**  
